@@ -1,2 +1,2 @@
 # BootcampAITraining
-This is a github repository created during the bootcamp.
+This is a sample github repository created during the bootcamp.
